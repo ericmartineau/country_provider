@@ -1,3 +1,6 @@
+## [1.0.2+4]
+ * Ensuring latest changes are published
+
 ## [1.0.2+3]
  * Prepare for publish
 
